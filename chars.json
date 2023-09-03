@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "axe",
+    "hp": 100,
+    "type": "melee",
+    "isSelected": true
+  },
+  {
+    "id": 2,
+    "name": "sniper",
+    "hp": 100,
+    "type": "melee",
+    "isSelected": false
+  },
+  {
+    "id": 3,
+    "name": "drow ranger",
+    "hp": 150,
+    "type": "melee",
+    "isSelected": true
+  },
+  {
+    "id": 4,
+    "name": "Miya",
+    "hp": 150,
+    "type": "melee",
+    "isSelected": false
+  },
+  {
+    "id": 5,
+    "name": "brody",
+    "hp": 100,
+    "type": "ranged",
+    "isSelected": false
+  },
+  {
+    "id": 6,
+    "name": "brody",
+    "hp": 100,
+    "type": "ranged",
+    "isSelected": true
+  }
+]
